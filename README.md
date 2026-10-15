@@ -18,3 +18,6 @@
 
 ## 🏆 Results & Business Impact
 By pivoting user activity into a normalized month-index matrix, this script visualizes exact percentage drop-offs per signup cohort. This allows retention teams to target intervention campaigns precisely at the months where churn spikes.
+
+### 📊 Cohort Retention Heatmap Output
+<img width="418" height="284" alt="Screenshot 2026-10-15 151524" src="https://github.com/user-attachments/assets/3b16034c-0d46-454a-8307-a4e622f7c2b6" />
